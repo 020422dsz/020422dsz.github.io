@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "a.png"
   name             : "Sizhe Ding"
   pronouns         : "He/his"
   bio              : "Transitioning from philosophy to public policy, with a strong foundation in research methods"
